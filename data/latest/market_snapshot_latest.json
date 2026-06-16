@@ -1,8 +1,8 @@
 {
   "snapshot_version": "v0.1",
-  "generated_at_utc": "2026-06-15T11:59:12.818160+00:00",
-  "start_date": "2025-03-12",
-  "end_date": "2026-06-15",
+  "generated_at_utc": "2026-06-16T02:20:38.122907+00:00",
+  "start_date": "2025-03-13",
+  "end_date": "2026-06-16",
   "portfolio_source": "config/tickers_core.json",
   "data_source": "polygon_aggregates",
   "portfolio": [
@@ -58,7 +58,11 @@
       "above_ma200": true,
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": -2.7473,
-      "rel_smh_1d_pct": -3.8833
+      "rel_smh_1d_pct": -3.8833,
+      "snapshot_generated_at_utc": "2026-06-16T02:20:38.122907+00:00",
+      "snapshot_start_date": "2025-03-13",
+      "snapshot_end_date": "2026-06-16",
+      "snapshot_data_source": "polygon_aggregates"
     },
     "ALAB": {
       "ticker": "ALAB",
@@ -97,7 +101,11 @@
       "above_ma200": true,
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": -0.6756,
-      "rel_smh_1d_pct": -1.8116
+      "rel_smh_1d_pct": -1.8116,
+      "snapshot_generated_at_utc": "2026-06-16T02:20:38.122907+00:00",
+      "snapshot_start_date": "2025-03-13",
+      "snapshot_end_date": "2026-06-16",
+      "snapshot_data_source": "polygon_aggregates"
     },
     "ARM": {
       "ticker": "ARM",
@@ -136,7 +144,11 @@
       "above_ma200": true,
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": 10.6846,
-      "rel_smh_1d_pct": 9.5486
+      "rel_smh_1d_pct": 9.5486,
+      "snapshot_generated_at_utc": "2026-06-16T02:20:38.122907+00:00",
+      "snapshot_start_date": "2025-03-13",
+      "snapshot_end_date": "2026-06-16",
+      "snapshot_data_source": "polygon_aggregates"
     },
     "ASML": {
       "ticker": "ASML",
@@ -175,7 +187,11 @@
       "above_ma200": true,
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": -2.4801,
-      "rel_smh_1d_pct": -3.6161
+      "rel_smh_1d_pct": -3.6161,
+      "snapshot_generated_at_utc": "2026-06-16T02:20:38.122907+00:00",
+      "snapshot_start_date": "2025-03-13",
+      "snapshot_end_date": "2026-06-16",
+      "snapshot_data_source": "polygon_aggregates"
     },
     "AVGO": {
       "ticker": "AVGO",
@@ -214,7 +230,11 @@
       "above_ma200": true,
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": -1.4962,
-      "rel_smh_1d_pct": -2.6322
+      "rel_smh_1d_pct": -2.6322,
+      "snapshot_generated_at_utc": "2026-06-16T02:20:38.122907+00:00",
+      "snapshot_start_date": "2025-03-13",
+      "snapshot_end_date": "2026-06-16",
+      "snapshot_data_source": "polygon_aggregates"
     },
     "CEG": {
       "ticker": "CEG",
@@ -253,7 +273,11 @@
       "above_ma200": false,
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": 2.2691,
-      "rel_smh_1d_pct": 1.1331
+      "rel_smh_1d_pct": 1.1331,
+      "snapshot_generated_at_utc": "2026-06-16T02:20:38.122907+00:00",
+      "snapshot_start_date": "2025-03-13",
+      "snapshot_end_date": "2026-06-16",
+      "snapshot_data_source": "polygon_aggregates"
     },
     "CRDO": {
       "ticker": "CRDO",
@@ -292,7 +316,11 @@
       "above_ma200": true,
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": -5.8574,
-      "rel_smh_1d_pct": -6.9934
+      "rel_smh_1d_pct": -6.9934,
+      "snapshot_generated_at_utc": "2026-06-16T02:20:38.122907+00:00",
+      "snapshot_start_date": "2025-03-13",
+      "snapshot_end_date": "2026-06-16",
+      "snapshot_data_source": "polygon_aggregates"
     },
     "CRWD": {
       "ticker": "CRWD",
@@ -308,7 +336,7 @@
       "ma20": 676.2565,
       "ma50": 543.6992,
       "ma100": 479.0517,
-      "ma200": 484.214,
+      "ma200": 484.2141,
       "avg_volume_20d": 3877879.8243,
       "avg_volume_50d": 3478593.7451,
       "vol_ratio_20d": 0.5962,
@@ -331,13 +359,21 @@
       "above_ma200": true,
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": -1.8509,
-      "rel_smh_1d_pct": -2.9869
+      "rel_smh_1d_pct": -2.9869,
+      "snapshot_generated_at_utc": "2026-06-16T02:20:38.122907+00:00",
+      "snapshot_start_date": "2025-03-13",
+      "snapshot_end_date": "2026-06-16",
+      "snapshot_data_source": "polygon_aggregates"
     },
     "DRAM": {
       "ticker": "DRAM",
       "group": "memory",
       "data_quality": "failed_or_insufficient_history",
-      "error": "Need at least 60 daily bars for v0.1 fields"
+      "error": "Need at least 60 daily bars for v0.1 fields",
+      "snapshot_generated_at_utc": "2026-06-16T02:20:38.122907+00:00",
+      "snapshot_start_date": "2025-03-13",
+      "snapshot_end_date": "2026-06-16",
+      "snapshot_data_source": "polygon_aggregates"
     },
     "ETN": {
       "ticker": "ETN",
@@ -376,7 +412,11 @@
       "above_ma200": true,
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": -1.1601,
-      "rel_smh_1d_pct": -2.2961
+      "rel_smh_1d_pct": -2.2961,
+      "snapshot_generated_at_utc": "2026-06-16T02:20:38.122907+00:00",
+      "snapshot_start_date": "2025-03-13",
+      "snapshot_end_date": "2026-06-16",
+      "snapshot_data_source": "polygon_aggregates"
     },
     "GEV": {
       "ticker": "GEV",
@@ -415,7 +455,11 @@
       "above_ma200": true,
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": 3.1467,
-      "rel_smh_1d_pct": 2.0107
+      "rel_smh_1d_pct": 2.0107,
+      "snapshot_generated_at_utc": "2026-06-16T02:20:38.122907+00:00",
+      "snapshot_start_date": "2025-03-13",
+      "snapshot_end_date": "2026-06-16",
+      "snapshot_data_source": "polygon_aggregates"
     },
     "GOOGL": {
       "ticker": "GOOGL",
@@ -454,7 +498,11 @@
       "above_ma200": true,
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": -0.0546,
-      "rel_smh_1d_pct": -1.1906
+      "rel_smh_1d_pct": -1.1906,
+      "snapshot_generated_at_utc": "2026-06-16T02:20:38.122907+00:00",
+      "snapshot_start_date": "2025-03-13",
+      "snapshot_end_date": "2026-06-16",
+      "snapshot_data_source": "polygon_aggregates"
     },
     "LITE": {
       "ticker": "LITE",
@@ -493,7 +541,11 @@
       "above_ma200": true,
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": 3.0053,
-      "rel_smh_1d_pct": 1.8693
+      "rel_smh_1d_pct": 1.8693,
+      "snapshot_generated_at_utc": "2026-06-16T02:20:38.122907+00:00",
+      "snapshot_start_date": "2025-03-13",
+      "snapshot_end_date": "2026-06-16",
+      "snapshot_data_source": "polygon_aggregates"
     },
     "MRVL": {
       "ticker": "MRVL",
@@ -532,7 +584,11 @@
       "above_ma200": true,
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": -0.9483,
-      "rel_smh_1d_pct": -2.0843
+      "rel_smh_1d_pct": -2.0843,
+      "snapshot_generated_at_utc": "2026-06-16T02:20:38.122907+00:00",
+      "snapshot_start_date": "2025-03-13",
+      "snapshot_end_date": "2026-06-16",
+      "snapshot_data_source": "polygon_aggregates"
     },
     "MU": {
       "ticker": "MU",
@@ -548,7 +604,7 @@
       "ma20": 893.1275,
       "ma50": 677.6468,
       "ma100": 540.8066,
-      "ma200": 381.709,
+      "ma200": 381.7091,
       "avg_volume_20d": 55348368.083,
       "avg_volume_50d": 49292389.1226,
       "vol_ratio_20d": 0.7407,
@@ -571,7 +627,11 @@
       "above_ma200": true,
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": -2.0204,
-      "rel_smh_1d_pct": -3.1564
+      "rel_smh_1d_pct": -3.1564,
+      "snapshot_generated_at_utc": "2026-06-16T02:20:38.122907+00:00",
+      "snapshot_start_date": "2025-03-13",
+      "snapshot_end_date": "2026-06-16",
+      "snapshot_data_source": "polygon_aggregates"
     },
     "NVDA": {
       "ticker": "NVDA",
@@ -610,7 +670,11 @@
       "above_ma200": true,
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": -0.4323,
-      "rel_smh_1d_pct": -1.5683
+      "rel_smh_1d_pct": -1.5683,
+      "snapshot_generated_at_utc": "2026-06-16T02:20:38.122907+00:00",
+      "snapshot_start_date": "2025-03-13",
+      "snapshot_end_date": "2026-06-16",
+      "snapshot_data_source": "polygon_aggregates"
     },
     "PLTR": {
       "ticker": "PLTR",
@@ -623,9 +687,9 @@
       "volume": 35473588,
       "prev_close": 131.08,
       "change_pct": -2.3573,
-      "ma20": 138.7448,
+      "ma20": 138.7447,
       "ma50": 139.6371,
-      "ma100": 143.4416,
+      "ma100": 143.4415,
       "ma200": 160.4179,
       "avg_volume_20d": 38405568.8236,
       "avg_volume_50d": 44843916.3393,
@@ -649,7 +713,11 @@
       "above_ma200": false,
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": -2.9458,
-      "rel_smh_1d_pct": -4.0818
+      "rel_smh_1d_pct": -4.0818,
+      "snapshot_generated_at_utc": "2026-06-16T02:20:38.122907+00:00",
+      "snapshot_start_date": "2025-03-13",
+      "snapshot_end_date": "2026-06-16",
+      "snapshot_data_source": "polygon_aggregates"
     },
     "PWR": {
       "ticker": "PWR",
@@ -665,7 +733,7 @@
       "ma20": 711.313,
       "ma50": 679.4498,
       "ma100": 606.6897,
-      "ma200": 516.7964,
+      "ma200": 516.7963,
       "avg_volume_20d": 1139002.0908,
       "avg_volume_50d": 1102658.6698,
       "vol_ratio_20d": 0.9044,
@@ -688,7 +756,11 @@
       "above_ma200": true,
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": 2.9898,
-      "rel_smh_1d_pct": 1.8538
+      "rel_smh_1d_pct": 1.8538,
+      "snapshot_generated_at_utc": "2026-06-16T02:20:38.122907+00:00",
+      "snapshot_start_date": "2025-03-13",
+      "snapshot_end_date": "2026-06-16",
+      "snapshot_data_source": "polygon_aggregates"
     },
     "QQQ": {
       "ticker": "QQQ",
@@ -727,7 +799,11 @@
       "above_ma200": true,
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": 0.0,
-      "rel_smh_1d_pct": -1.136
+      "rel_smh_1d_pct": -1.136,
+      "snapshot_generated_at_utc": "2026-06-16T02:20:38.122907+00:00",
+      "snapshot_start_date": "2025-03-13",
+      "snapshot_end_date": "2026-06-16",
+      "snapshot_data_source": "polygon_aggregates"
     },
     "SMH": {
       "ticker": "SMH",
@@ -766,7 +842,11 @@
       "above_ma200": true,
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": 1.136,
-      "rel_smh_1d_pct": 0.0
+      "rel_smh_1d_pct": 0.0,
+      "snapshot_generated_at_utc": "2026-06-16T02:20:38.122907+00:00",
+      "snapshot_start_date": "2025-03-13",
+      "snapshot_end_date": "2026-06-16",
+      "snapshot_data_source": "polygon_aggregates"
     },
     "SNDK": {
       "ticker": "SNDK",
@@ -805,7 +885,11 @@
       "above_ma200": true,
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": 4.6514,
-      "rel_smh_1d_pct": 3.5154
+      "rel_smh_1d_pct": 3.5154,
+      "snapshot_generated_at_utc": "2026-06-16T02:20:38.122907+00:00",
+      "snapshot_start_date": "2025-03-13",
+      "snapshot_end_date": "2026-06-16",
+      "snapshot_data_source": "polygon_aggregates"
     },
     "SNOW": {
       "ticker": "SNOW",
@@ -821,7 +905,7 @@
       "ma20": 215.089,
       "ma50": 172.8964,
       "ma100": 174.7573,
-      "ma200": 205.543,
+      "ma200": 205.5429,
       "avg_volume_20d": 11553489.4042,
       "avg_volume_50d": 9339162.4255,
       "vol_ratio_20d": 0.6671,
@@ -844,7 +928,11 @@
       "above_ma200": true,
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": -3.7542,
-      "rel_smh_1d_pct": -4.8902
+      "rel_smh_1d_pct": -4.8902,
+      "snapshot_generated_at_utc": "2026-06-16T02:20:38.122907+00:00",
+      "snapshot_start_date": "2025-03-13",
+      "snapshot_end_date": "2026-06-16",
+      "snapshot_data_source": "polygon_aggregates"
     },
     "SPCX": {
       "ticker": "SPCX",
@@ -883,7 +971,11 @@
       "above_ma200": true,
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": 631.6681,
-      "rel_smh_1d_pct": 630.5321
+      "rel_smh_1d_pct": 630.5321,
+      "snapshot_generated_at_utc": "2026-06-16T02:20:38.122907+00:00",
+      "snapshot_start_date": "2025-03-13",
+      "snapshot_end_date": "2026-06-16",
+      "snapshot_data_source": "polygon_aggregates"
     },
     "TSLA": {
       "ticker": "TSLA",
@@ -922,7 +1014,11 @@
       "above_ma200": false,
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": 1.2354,
-      "rel_smh_1d_pct": 0.0994
+      "rel_smh_1d_pct": 0.0994,
+      "snapshot_generated_at_utc": "2026-06-16T02:20:38.122907+00:00",
+      "snapshot_start_date": "2025-03-13",
+      "snapshot_end_date": "2026-06-16",
+      "snapshot_data_source": "polygon_aggregates"
     },
     "TSM": {
       "ticker": "TSM",
@@ -961,7 +1057,11 @@
       "above_ma200": true,
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": 0.0907,
-      "rel_smh_1d_pct": -1.0453
+      "rel_smh_1d_pct": -1.0453,
+      "snapshot_generated_at_utc": "2026-06-16T02:20:38.122907+00:00",
+      "snapshot_start_date": "2025-03-13",
+      "snapshot_end_date": "2026-06-16",
+      "snapshot_data_source": "polygon_aggregates"
     },
     "VRT": {
       "ticker": "VRT",
@@ -1000,7 +1100,11 @@
       "above_ma200": true,
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": 1.0867,
-      "rel_smh_1d_pct": -0.0493
+      "rel_smh_1d_pct": -0.0493,
+      "snapshot_generated_at_utc": "2026-06-16T02:20:38.122907+00:00",
+      "snapshot_start_date": "2025-03-13",
+      "snapshot_end_date": "2026-06-16",
+      "snapshot_data_source": "polygon_aggregates"
     },
     "VST": {
       "ticker": "VST",
@@ -1039,7 +1143,11 @@
       "above_ma200": false,
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": 0.5319,
-      "rel_smh_1d_pct": -0.6041
+      "rel_smh_1d_pct": -0.6041,
+      "snapshot_generated_at_utc": "2026-06-16T02:20:38.122907+00:00",
+      "snapshot_start_date": "2025-03-13",
+      "snapshot_end_date": "2026-06-16",
+      "snapshot_data_source": "polygon_aggregates"
     },
     "WDC": {
       "ticker": "WDC",
@@ -1078,7 +1186,11 @@
       "above_ma200": true,
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": 5.7662,
-      "rel_smh_1d_pct": 4.6302
+      "rel_smh_1d_pct": 4.6302,
+      "snapshot_generated_at_utc": "2026-06-16T02:20:38.122907+00:00",
+      "snapshot_start_date": "2025-03-13",
+      "snapshot_end_date": "2026-06-16",
+      "snapshot_data_source": "polygon_aggregates"
     }
   },
   "data_quality_summary": {
