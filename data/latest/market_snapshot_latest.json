@@ -1,6 +1,6 @@
 {
   "snapshot_version": "v0.1",
-  "generated_at_utc": "2026-06-17T05:19:35.360898+00:00",
+  "generated_at_utc": "2026-06-17T09:26:58.582242+00:00",
   "start_date": "2025-03-14",
   "end_date": "2026-06-17",
   "portfolio_source": "config/tickers_core.json",
@@ -59,7 +59,7 @@
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": -8.927,
       "rel_smh_1d_pct": -6.0214,
-      "snapshot_generated_at_utc": "2026-06-17T05:19:35.360898+00:00",
+      "snapshot_generated_at_utc": "2026-06-17T09:26:58.582242+00:00",
       "snapshot_start_date": "2025-03-14",
       "snapshot_end_date": "2026-06-17",
       "snapshot_data_source": "polygon_aggregates"
@@ -102,7 +102,7 @@
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": -5.1627,
       "rel_smh_1d_pct": -2.2571,
-      "snapshot_generated_at_utc": "2026-06-17T05:19:35.360898+00:00",
+      "snapshot_generated_at_utc": "2026-06-17T09:26:58.582242+00:00",
       "snapshot_start_date": "2025-03-14",
       "snapshot_end_date": "2026-06-17",
       "snapshot_data_source": "polygon_aggregates"
@@ -145,7 +145,7 @@
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": -2.0287,
       "rel_smh_1d_pct": 0.8769,
-      "snapshot_generated_at_utc": "2026-06-17T05:19:35.360898+00:00",
+      "snapshot_generated_at_utc": "2026-06-17T09:26:58.582242+00:00",
       "snapshot_start_date": "2025-03-14",
       "snapshot_end_date": "2026-06-17",
       "snapshot_data_source": "polygon_aggregates"
@@ -188,7 +188,7 @@
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": -2.7897,
       "rel_smh_1d_pct": 0.1159,
-      "snapshot_generated_at_utc": "2026-06-17T05:19:35.360898+00:00",
+      "snapshot_generated_at_utc": "2026-06-17T09:26:58.582242+00:00",
       "snapshot_start_date": "2025-03-14",
       "snapshot_end_date": "2026-06-17",
       "snapshot_data_source": "polygon_aggregates"
@@ -231,7 +231,7 @@
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": -2.4733,
       "rel_smh_1d_pct": 0.4323,
-      "snapshot_generated_at_utc": "2026-06-17T05:19:35.360898+00:00",
+      "snapshot_generated_at_utc": "2026-06-17T09:26:58.582242+00:00",
       "snapshot_start_date": "2025-03-14",
       "snapshot_end_date": "2026-06-17",
       "snapshot_data_source": "polygon_aggregates"
@@ -274,7 +274,7 @@
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": 4.0541,
       "rel_smh_1d_pct": 6.9597,
-      "snapshot_generated_at_utc": "2026-06-17T05:19:35.360898+00:00",
+      "snapshot_generated_at_utc": "2026-06-17T09:26:58.582242+00:00",
       "snapshot_start_date": "2025-03-14",
       "snapshot_end_date": "2026-06-17",
       "snapshot_data_source": "polygon_aggregates"
@@ -317,7 +317,7 @@
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": -5.898,
       "rel_smh_1d_pct": -2.9924,
-      "snapshot_generated_at_utc": "2026-06-17T05:19:35.360898+00:00",
+      "snapshot_generated_at_utc": "2026-06-17T09:26:58.582242+00:00",
       "snapshot_start_date": "2025-03-14",
       "snapshot_end_date": "2026-06-17",
       "snapshot_data_source": "polygon_aggregates"
@@ -360,7 +360,7 @@
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": -0.0363,
       "rel_smh_1d_pct": 2.8693,
-      "snapshot_generated_at_utc": "2026-06-17T05:19:35.360898+00:00",
+      "snapshot_generated_at_utc": "2026-06-17T09:26:58.582242+00:00",
       "snapshot_start_date": "2025-03-14",
       "snapshot_end_date": "2026-06-17",
       "snapshot_data_source": "polygon_aggregates"
@@ -370,7 +370,7 @@
       "group": "memory",
       "data_quality": "failed_or_insufficient_history",
       "error": "Need at least 60 daily bars for v0.1 fields",
-      "snapshot_generated_at_utc": "2026-06-17T05:19:35.360898+00:00",
+      "snapshot_generated_at_utc": "2026-06-17T09:26:58.582242+00:00",
       "snapshot_start_date": "2025-03-14",
       "snapshot_end_date": "2026-06-17",
       "snapshot_data_source": "polygon_aggregates"
@@ -413,7 +413,7 @@
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": 2.0602,
       "rel_smh_1d_pct": 4.9658,
-      "snapshot_generated_at_utc": "2026-06-17T05:19:35.360898+00:00",
+      "snapshot_generated_at_utc": "2026-06-17T09:26:58.582242+00:00",
       "snapshot_start_date": "2025-03-14",
       "snapshot_end_date": "2026-06-17",
       "snapshot_data_source": "polygon_aggregates"
@@ -456,7 +456,7 @@
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": 2.2355,
       "rel_smh_1d_pct": 5.1411,
-      "snapshot_generated_at_utc": "2026-06-17T05:19:35.360898+00:00",
+      "snapshot_generated_at_utc": "2026-06-17T09:26:58.582242+00:00",
       "snapshot_start_date": "2025-03-14",
       "snapshot_end_date": "2026-06-17",
       "snapshot_data_source": "polygon_aggregates"
@@ -499,7 +499,7 @@
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": 2.9564,
       "rel_smh_1d_pct": 5.862,
-      "snapshot_generated_at_utc": "2026-06-17T05:19:35.360898+00:00",
+      "snapshot_generated_at_utc": "2026-06-17T09:26:58.582242+00:00",
       "snapshot_start_date": "2025-03-14",
       "snapshot_end_date": "2026-06-17",
       "snapshot_data_source": "polygon_aggregates"
@@ -542,7 +542,7 @@
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": -6.6533,
       "rel_smh_1d_pct": -3.7477,
-      "snapshot_generated_at_utc": "2026-06-17T05:19:35.360898+00:00",
+      "snapshot_generated_at_utc": "2026-06-17T09:26:58.582242+00:00",
       "snapshot_start_date": "2025-03-14",
       "snapshot_end_date": "2026-06-17",
       "snapshot_data_source": "polygon_aggregates"
@@ -585,7 +585,7 @@
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": -7.88,
       "rel_smh_1d_pct": -4.9744,
-      "snapshot_generated_at_utc": "2026-06-17T05:19:35.360898+00:00",
+      "snapshot_generated_at_utc": "2026-06-17T09:26:58.582242+00:00",
       "snapshot_start_date": "2025-03-14",
       "snapshot_end_date": "2026-06-17",
       "snapshot_data_source": "polygon_aggregates"
@@ -628,7 +628,7 @@
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": -4.2788,
       "rel_smh_1d_pct": -1.3732,
-      "snapshot_generated_at_utc": "2026-06-17T05:19:35.360898+00:00",
+      "snapshot_generated_at_utc": "2026-06-17T09:26:58.582242+00:00",
       "snapshot_start_date": "2025-03-14",
       "snapshot_end_date": "2026-06-17",
       "snapshot_data_source": "polygon_aggregates"
@@ -671,7 +671,7 @@
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": -0.4718,
       "rel_smh_1d_pct": 2.4338,
-      "snapshot_generated_at_utc": "2026-06-17T05:19:35.360898+00:00",
+      "snapshot_generated_at_utc": "2026-06-17T09:26:58.582242+00:00",
       "snapshot_start_date": "2025-03-14",
       "snapshot_end_date": "2026-06-17",
       "snapshot_data_source": "polygon_aggregates"
@@ -714,7 +714,7 @@
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": 0.8167,
       "rel_smh_1d_pct": 3.7223,
-      "snapshot_generated_at_utc": "2026-06-17T05:19:35.360898+00:00",
+      "snapshot_generated_at_utc": "2026-06-17T09:26:58.582242+00:00",
       "snapshot_start_date": "2025-03-14",
       "snapshot_end_date": "2026-06-17",
       "snapshot_data_source": "polygon_aggregates"
@@ -757,7 +757,7 @@
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": 1.2019,
       "rel_smh_1d_pct": 4.1075,
-      "snapshot_generated_at_utc": "2026-06-17T05:19:35.360898+00:00",
+      "snapshot_generated_at_utc": "2026-06-17T09:26:58.582242+00:00",
       "snapshot_start_date": "2025-03-14",
       "snapshot_end_date": "2026-06-17",
       "snapshot_data_source": "polygon_aggregates"
@@ -800,7 +800,7 @@
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": 0.0,
       "rel_smh_1d_pct": 2.9056,
-      "snapshot_generated_at_utc": "2026-06-17T05:19:35.360898+00:00",
+      "snapshot_generated_at_utc": "2026-06-17T09:26:58.582242+00:00",
       "snapshot_start_date": "2025-03-14",
       "snapshot_end_date": "2026-06-17",
       "snapshot_data_source": "polygon_aggregates"
@@ -843,7 +843,7 @@
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": -2.9056,
       "rel_smh_1d_pct": 0.0,
-      "snapshot_generated_at_utc": "2026-06-17T05:19:35.360898+00:00",
+      "snapshot_generated_at_utc": "2026-06-17T09:26:58.582242+00:00",
       "snapshot_start_date": "2025-03-14",
       "snapshot_end_date": "2026-06-17",
       "snapshot_data_source": "polygon_aggregates"
@@ -886,7 +886,7 @@
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": -3.6174,
       "rel_smh_1d_pct": -0.7118,
-      "snapshot_generated_at_utc": "2026-06-17T05:19:35.360898+00:00",
+      "snapshot_generated_at_utc": "2026-06-17T09:26:58.582242+00:00",
       "snapshot_start_date": "2025-03-14",
       "snapshot_end_date": "2026-06-17",
       "snapshot_data_source": "polygon_aggregates"
@@ -929,7 +929,7 @@
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": 0.8788,
       "rel_smh_1d_pct": 3.7844,
-      "snapshot_generated_at_utc": "2026-06-17T05:19:35.360898+00:00",
+      "snapshot_generated_at_utc": "2026-06-17T09:26:58.582242+00:00",
       "snapshot_start_date": "2025-03-14",
       "snapshot_end_date": "2026-06-17",
       "snapshot_data_source": "polygon_aggregates"
@@ -972,7 +972,7 @@
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": 6.7317,
       "rel_smh_1d_pct": 9.6373,
-      "snapshot_generated_at_utc": "2026-06-17T05:19:35.360898+00:00",
+      "snapshot_generated_at_utc": "2026-06-17T09:26:58.582242+00:00",
       "snapshot_start_date": "2025-03-14",
       "snapshot_end_date": "2026-06-17",
       "snapshot_data_source": "polygon_aggregates"
@@ -1015,7 +1015,7 @@
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": 0.322,
       "rel_smh_1d_pct": 3.2276,
-      "snapshot_generated_at_utc": "2026-06-17T05:19:35.360898+00:00",
+      "snapshot_generated_at_utc": "2026-06-17T09:26:58.582242+00:00",
       "snapshot_start_date": "2025-03-14",
       "snapshot_end_date": "2026-06-17",
       "snapshot_data_source": "polygon_aggregates"
@@ -1058,7 +1058,7 @@
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": -1.6269,
       "rel_smh_1d_pct": 1.2787,
-      "snapshot_generated_at_utc": "2026-06-17T05:19:35.360898+00:00",
+      "snapshot_generated_at_utc": "2026-06-17T09:26:58.582242+00:00",
       "snapshot_start_date": "2025-03-14",
       "snapshot_end_date": "2026-06-17",
       "snapshot_data_source": "polygon_aggregates"
@@ -1101,7 +1101,7 @@
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": -2.0523,
       "rel_smh_1d_pct": 0.8533,
-      "snapshot_generated_at_utc": "2026-06-17T05:19:35.360898+00:00",
+      "snapshot_generated_at_utc": "2026-06-17T09:26:58.582242+00:00",
       "snapshot_start_date": "2025-03-14",
       "snapshot_end_date": "2026-06-17",
       "snapshot_data_source": "polygon_aggregates"
@@ -1144,7 +1144,7 @@
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": 5.216,
       "rel_smh_1d_pct": 8.1216,
-      "snapshot_generated_at_utc": "2026-06-17T05:19:35.360898+00:00",
+      "snapshot_generated_at_utc": "2026-06-17T09:26:58.582242+00:00",
       "snapshot_start_date": "2025-03-14",
       "snapshot_end_date": "2026-06-17",
       "snapshot_data_source": "polygon_aggregates"
@@ -1187,7 +1187,7 @@
       "data_quality": "historical_ohlcv_and_technicals_available",
       "rel_qqq_1d_pct": 6.1161,
       "rel_smh_1d_pct": 9.0217,
-      "snapshot_generated_at_utc": "2026-06-17T05:19:35.360898+00:00",
+      "snapshot_generated_at_utc": "2026-06-17T09:26:58.582242+00:00",
       "snapshot_start_date": "2025-03-14",
       "snapshot_end_date": "2026-06-17",
       "snapshot_data_source": "polygon_aggregates"
